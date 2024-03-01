@@ -25,6 +25,6 @@ I am a Software Engineer at Trive Academy. Proficient in frameworks like Nuxt 3,
 
 <b>My GitHub Stats</b>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkwnism)](https://github.com/zkwnism/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkwnism&show_icons=true&theme=dark)
 
 <a href="https://github.com/zkwnism" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkwnism&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
